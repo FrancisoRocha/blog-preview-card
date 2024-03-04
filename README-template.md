@@ -18,8 +18,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](![image](https://github.com/FrancisoRocha/blog-preview-card/assets/122055396/d2f7b4b3-f848-49c1-9d8c-f20191405f5a)
-)
+![image](https://github.com/FrancisoRocha/blog-preview-card/assets/122055396/25467143-f8a9-473a-9736-43bdeb0618a4)
+
 
 ### Links
 
@@ -98,6 +98,6 @@ I'm excited to continue advancing on my development journey and learn more every
 
 ## Author
 
-- Frontend Mentor - [@FrancisoRocha]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/FrancisoRocha))
-- Twitter - [@Francis99472176]([https://www.twitter.com/yourusername](https://twitter.com/Francis99472176))
+- Frontend Mentor - [@FrancisoRocha](https://www.frontendmentor.io/profile/FrancisoRocha)
+- Twitter - [@Francis99472176](https://twitter.com/Francis99472176)
 
